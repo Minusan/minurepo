@@ -1,1 +1,3 @@
 lore ipsum
+
+textul a fost modificat
